@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dongdongey.github.io//sitemap.xml
+Sitemap: https://dongdongey.github.io/learning_Cpp/sitemap.xml
